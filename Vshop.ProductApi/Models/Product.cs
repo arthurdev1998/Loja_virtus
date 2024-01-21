@@ -1,6 +1,3 @@
-using System.ComponentModel;
-using System.Security.Cryptography.X509Certificates;
-
 namespace Vshop.ProductApi.Models;
 
 public class Product
